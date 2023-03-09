@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Car Search</title>
+    <style>
+        .errorlist {color: purple; display: block}
+    </style>
+</head>
+<body>
+
+    <form action="{% url 'search_car' %}" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{ form.as_p }}
+
+    <!--  <input name="search_str"/>-->
+    <!--    <input type="date"/>-->
+      <input type="submit"/>
+    </form>
+
+</body>
+</html>

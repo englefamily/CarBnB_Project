@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "carbnb-377710",
+  "private_key_id": "7543d261e22b7810b4740362e73df602a7fc24e8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDhXlDzQc02Y7OR\ngJqpJ2CKcgyWGWfsrrGf/BcbiueP2BV/Zc9jyMquPXVSRhnguBc6zJI2v5ufisbj\nE55CYZ4dOD+gC9pDEWSGvNCKJ6EJt/EydYsvQblNexmgviwi0CWn+NeM5U08HGqx\nMBtQHTh3c2bbWe/w1yyHXGqc/sqjx/yj1aHSFBNyeg7WKSi6IqHDkgLF32/66NF5\nl0iIHy/ypA+qUpkFbE//YYY6Qt2JuFEJF6YkU3r9y88DxDD12iRDaiJlhr9mpzGS\n5SGu5Guv1GAl9LQkT+ab75eTEkfecMS6OUHOGiBUOXkYjGsyjaGXyaWl/nLvulT5\npT1Ho82nAgMBAAECggEAWz1ob3tZ3eWyartSoh3nh1VSBCin+tnk3pzcLBHp2sIE\nPg4VTtQZPj5yc4se6ewNt4ffwBuFoSs5hvBH158WuMSveZei1xlBBg2GLhCKMVmP\nZDrTTSACKbynLP0g+D0lqaHkfk3NHYNxrGeJ/z69QBrv7ukz62DpzalcHlBG8NQB\nN5FGk3B3x6r7gyku5VhPqbWtktYJI5/Nxs5Rwv/w3lDSwu6CHa2fq7XESyqM0Xdc\nKGTiLLwSzc7Nk6IYp2pr3xJk3KjnItV0Bf/hjIoDrSBxfUBr2jfb4VVZx7lCWzGs\n/Isw260o4f5luFdDWrY2QJHFyoYdiuTccLtGVaHQWQKBgQD41BNq0mz+bO5fLhhP\nndJyVRf6FDiDVVudZ/PycqhATrQlJ+bpkm/9mqNKV4TpKLWf7a9TBks5rwMh7QWO\nafmw4z8ePxuBdyzkt3PnTB0JGLUoM9UKpMQQFILlVzOoIxqKAPh2bJllyeQYTSVO\nSFenDZLdABCVFIkneZcM+VYKqQKBgQDn3SVlSlALmTqC3xR1/uNTVCltYtKH/xEF\n08LQYYH0vLZ5AtwF3Bb4+2kZlzIG2Jo9hRZulySo+Qz77rsBG1mSJ5JqXIVEGnnB\npz1hkv30iGghp+EF0uSlpwazS2OQzlHt4WnYWshPhuGmwjewP5cWOAcHl6exLvFA\nvkvNvLwXzwKBgQC/BslVY/CrLuOdjJy7WrU6cxtyMN3l7bzkze6ZPe7vV7yzHbwH\nqxVxA6vCogf2m/s7qVTFD3rm8PYdsIJof/FiHEPTq60pKl37xN8lPei4mBBTqd8v\nSaj/k0+eU+Djfveb5PzaparqWyFSir9OJvmr1R7frXINkXNuK8mL+0tT6QKBgQCU\n8w8T69JSMSRScGafipeUr2tRlvtyXBweZzQuU4V9qEF8qaaYqROk7TVOOD/t//XN\n8ZJAhx4I4r1BltJRWrWG258Gbts5rdxr2DjpVtmH3p0uib9X02wJMqxuP879dl1R\neM5bK66k0Bxj2T6XHbK8lk+FxBn5DBP1qInf6A/ZJwKBgHMZjqIvCHDLYYCRMspa\nOHM4yOA4Lb6ZtiHvIEaui3qiVe7MMmIahBQgk+hoEx+l5RoMF7twTA1vFIaGIW2V\n/w+vXHB/RFG8luMfmYUrf5Sgc+Q26ED8bW4KIaP0qRvxc9PoWt+pXhGeI2t2Z5Iz\n5Cf8SNNUkfsQ9sODeF9rGzIa\n-----END PRIVATE KEY-----\n",
+  "client_email": "carbnbservice@carbnb-377710.iam.gserviceaccount.com",
+  "client_id": "103693998488057602681",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/carbnbservice%40carbnb-377710.iam.gserviceaccount.com"
+}

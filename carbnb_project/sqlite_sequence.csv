@@ -1,0 +1,10 @@
+name,seq
+django_migrations,20
+django_admin_log,27
+django_content_type,9
+auth_permission,36
+auth_group,0
+auth_user,1
+car,10
+person,7
+rent,4

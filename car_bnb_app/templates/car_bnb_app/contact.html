@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Contact Us</title>
+</head>
+<body>
+        {% csrf_token %}
+<form action="{% url 'contact' %}" method="post" enctype="multipart/form-data">
+    {{ form.as_p }}
+
+
+<!--  <input name="search_str"/>-->
+<!--    <input type="date"/>-->
+  <input type="submit"/>
+</form>
+</body>
+</html>

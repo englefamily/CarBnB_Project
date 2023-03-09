@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Person Creation Form: CreateView</title>
+</head>
+<body>
+    {% csrf_token %}
+<form action="{% url 'create_person' %}" method="post">
+      {{ form.as_p }}
+      <input type="submit"/>
+</form>
+</body>
+</html>

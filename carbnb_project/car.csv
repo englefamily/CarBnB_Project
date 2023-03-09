@@ -1,0 +1,11 @@
+id,car_type,car_year,cost,mileage,owner_id
+1,Toyota Corolla,2020,505,12003,1
+2,Suzuki Ignis,2019,250,34002,2
+3,Subaru Impreza,2018,350,13425,3
+4,Mazda 323,2021,350,10234,2
+5,BMW 118,2104,625,40123,7
+6,BMW 330i,2023,700,258,7
+7,Lamborgini Evo,2021,1550,165,7
+8,Tesla S,2019,650,18564,1
+9,Lamborgini Evo,2023,850,5001,7
+10,Mazda 323,2022,450,12500,3

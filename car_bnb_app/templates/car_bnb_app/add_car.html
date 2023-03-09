@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add a Car</title>
+</head>
+<body>
+        {% csrf_token %}
+    <form action="{% url 'add_car' cid=cid %}" method="post">
+        {{ form.as_p }}
+
+        <input name="cid" type="hidden" value={cid} />
+
+        <input type="submit"/>
+    </form>
+</body>
+</html>
